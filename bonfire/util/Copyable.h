@@ -11,4 +11,4 @@ class Copyable {
 
 } // namespace bonfire
 
-#endif  // BONFIRE_COPYABLE_H__
+#endif // BONFIRE_COPYABLE_H__
