@@ -1,5 +1,5 @@
 add_packages("gtest")
 
-target("InetAddress_test")
-    add_files("InetAddress_test.cc")
+target("InetAddress_unittest")
+    add_files("InetAddress_unittest.cc")
     add_packages("libbonfire")

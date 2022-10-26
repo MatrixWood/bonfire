@@ -14,7 +14,7 @@ add_requires("gtest")
 
 target("bonfire")
     set_kind("static")
-    add_files("bonfile/net/*.cc")
-    add_files("bonfile/util/*.cc")
+    add_files("bonfire/net/*.cc")
+    add_files("bonfire/util/*.cc")
 
 add_subdirs('unittests')
